@@ -11,4 +11,17 @@ Features
 * TCP network stream (IPv4 & IPv6 support)
 * Computer Commands (Restart, Shutdown, Standby)
 
-**Please don't upload anything to VirusTotal.com
+**Please don't upload anything to VirusTotal.com**
+
+Requirements
+---
+rpyc
+pycrypto
+pefile 
+pyyaml
+image
+rsa
+netaddr
+ecdsa==0.13
+paramiko==2.0.2
+netifaces
