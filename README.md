@@ -1,10 +1,10 @@
-QuasarRAT
+MyviRAT
 =========
 [![Build status](https://ci.appveyor.com/api/projects/status/5857hfy6r1ltb5f2?svg=true)](https://ci.appveyor.com/project/MaxXor/quasarrat) [![Join the chat at https://gitter.im/MyviRAT](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MyviRAT)
 
-**Free, Open-Source Remote Administration Tool for Windows**
+**Open-Source Remote Administration Tool (RAT) for Windows**
 
-Quasar is a fast and light-weight remote administration tool coded in C#. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.
+MyviRAT is a "Remote Administration Tool" (RAT) coded in C#.
 
 Features
 ---
