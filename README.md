@@ -9,24 +9,4 @@ MyviRAT is a "Remote Administration Tool" (RAT) coded in C#.
 Features
 ---
 * TCP network stream (IPv4 & IPv6 support)
-* Fast network serialization (NetSerializer)
-* Compressed (QuickLZ) & Encrypted (AES-128) communication
-* Multi-Threaded
-* UPnP Support
-* No-Ip.com Support
-* Visit Website (hidden & visible)
-* Show Messagebox
-* Task Manager
-* File Manager
-* Startup Manager
-* Remote Desktop
-* Remote Webcam
-* Remote Shell
-* Download & Execute
-* Upload & Execute
-* System Information
 * Computer Commands (Restart, Shutdown, Standby)
-* Keylogger (Unicode Support)
-* Reverse Proxy (SOCKS5)
-* Password Recovery (Common Browsers and FTP Clients)
-* Registry Editor
