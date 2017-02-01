@@ -13,12 +13,17 @@ Features
 
 **Please don't upload anything to VirusTotal.com**
 
+
 Requirements
 ---
 Please read (MyviRAT/Requirements.txt) for details.
 
+
 Python Modules Installation
 ---
+Please install everything listed down on (MyviRAT/Requirements.txt) in order to make it function properly.
+Example:
 
     sudo pip install rpyc
+
 
