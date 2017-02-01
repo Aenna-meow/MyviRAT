@@ -4,9 +4,11 @@ MyviRAT
 
 **Open-Source Remote Administration Tool (RAT) for Windows**
 
-MyviRAT is a "Remote Administration Tool" (RAT) coded in C#.
+MyviRAT is a "Remote Administration Tool" (RAT).
 
 Features
 ---
 * TCP network stream (IPv4 & IPv6 support)
 * Computer Commands (Restart, Shutdown, Standby)
+
+**Please don't upload anything to VirusTotal.com
