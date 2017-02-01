@@ -15,4 +15,7 @@ Features
 
 Requirements
 ---
-Please read (https://github.com/AndyAshraaf/MyviRAT/blob/master/requirements) for details.
+Please read (MyviRAT/Requirements.txt) for details.
+
+Python Modules Installation
+---
