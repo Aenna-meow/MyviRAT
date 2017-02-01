@@ -15,4 +15,4 @@ Features
 
 Requirements
 ---
-Please read (https://github.com/AndyAshraaf/MyviRAT).
+Please read (MyviRAT/requirements).
