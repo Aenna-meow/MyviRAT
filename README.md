@@ -19,6 +19,6 @@ Please read (MyviRAT/Requirements.txt) for details.
 
 Python Modules Installation
 ---
-'''
-  sudo pip install rpyc
-'''
+
+    sudo pip install rpyc
+
