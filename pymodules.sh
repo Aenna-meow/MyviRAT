@@ -1,0 +1,10 @@
+pip install rpyc
+pip install pycrypto
+pip install pefile
+pip install pyyaml
+pip install image
+pip install rsa
+pip install netaddr
+pip install ecdsa==0.13
+pip install paramiko==2.0.2
+pip install netifaces
