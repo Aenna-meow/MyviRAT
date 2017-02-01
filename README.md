@@ -15,13 +15,4 @@ Features
 
 Requirements
 ---
-rpyc
-pycrypto
-pefile 
-pyyaml
-image
-rsa
-netaddr
-ecdsa==0.13
-paramiko==2.0.2
-netifaces
+Please read (https://github.com/AndyAshraaf/MyviRAT).
